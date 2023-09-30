@@ -14,9 +14,9 @@ Luego se instalo rufus desde la tienda de windows para posteriormente quemar la 
 ya con la iso quemada se empezo a realizar la intalacion primero apando el computador, luego iniciando desde la USB se selecciono la opcion "Start linux Mint 21.2 cinnamon 64-bits" y se siguieron los pasos del instalador de Mint  
 
 ![SS12](https://github.com/NicolasA23/Lab0/assets/68253371/323512a4-816d-4b38-a5fa-29b0a2a16884)  
-![picasion com_01d3464f3668c5aeba7c2adf6868a57f](https://github.com/NicolasA23/Lab0/assets/68253371/1d8d814f-69b7-4e36-9544-60ba0f62bce1)
 
-![picasion com_733c07bfe8f175b24b4d89f71b1c6fb6](https://github.com/NicolasA23/Lab0/assets/68253371/aee32e9e-8e58-4138-a424-781a816dd33b)
+![picasion com_01d3464f3668c5aeba7c2adf6868a57f (1)](https://github.com/NicolasA23/Lab0/assets/68253371/483cd602-ccee-4143-b35f-b92addf1e256)
+![picasion com_f53a0fde7f707cd1bc2f3772e5d1821f](https://github.com/NicolasA23/Lab0/assets/68253371/b27739fc-e01b-428e-bf9e-5e75d228293a)
 
 
 Al instalar Mint e inicar el PC solo iniciba en windows entonces 
