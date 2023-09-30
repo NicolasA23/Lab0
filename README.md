@@ -8,8 +8,7 @@ Durante el semestre vamos a utilizar linux en La distribucion Mint, durante este
 
 ## Instalacion de linux  
 Para la instalacion de Mint primero se descargo Mint desde su pagina web  
-![picasion com_0fcb55a8d0821674ecded91912108562](https://github.com/NicolasA23/Lab0/assets/68253371/23ad914d-d6d6-4fc6-913b-f49adcfff09e)
-
+<center> ![picasion com_0fcb55a8d0821674ecded91912108562](https://github.com/NicolasA23/Lab0/assets/68253371/23ad914d-d6d6-4fc6-913b-f49adcfff09e </center>
 
 ![Captura de pantalla de 2023-08-29 16-47-20](https://github.com/NicolasA23/Lab0/assets/68253371/34c8dc2f-115f-4848-b543-d2374fd66513)  
 ![Captura de pantalla de 2023-08-29 16-47-32](https://github.com/NicolasA23/Lab0/assets/68253371/2d9f63df-f543-44ec-9919-567cc9887aea)  
