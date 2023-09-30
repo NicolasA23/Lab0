@@ -1,4 +1,10 @@
 # Lab0
+
+Yuli Fernanda Alpala Cuaspa
+Nicolas Andres Niño Sabogal
+Nicolas Torres Orozco
+
+Durante el semestre vamos a 
 ![Captura de pantalla de 2023-08-29 16-47-20](https://github.com/NicolasA23/Lab0/assets/68253371/34c8dc2f-115f-4848-b543-d2374fd66513)
 ![Captura de pantalla de 2023-08-29 16-47-32](https://github.com/NicolasA23/Lab0/assets/68253371/2d9f63df-f543-44ec-9919-567cc9887aea)
 ![Captura de pantalla de 2023-08-29 17-06-08](https://github.com/NicolasA23/Lab0/assets/68253371/2f91d08a-0ddd-4bf2-874e-5f53760ad1ef)
