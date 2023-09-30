@@ -16,7 +16,8 @@ ya con la iso quemada se empezo a realizar la intalacion primero apando el compu
 ![SS12](https://github.com/NicolasA23/Lab0/assets/68253371/323512a4-816d-4b38-a5fa-29b0a2a16884)  
 
 ![picasion com_01d3464f3668c5aeba7c2adf6868a57f (1)](https://github.com/NicolasA23/Lab0/assets/68253371/483cd602-ccee-4143-b35f-b92addf1e256)
-![picasion com_f53a0fde7f707cd1bc2f3772e5d1821f](https://github.com/NicolasA23/Lab0/assets/68253371/b27739fc-e01b-428e-bf9e-5e75d228293a)
+
+![picasion com_f53a0fde7f707cd1bc2f3772e5d1821f](https://github.com/NicolasA23/Lab0/assets/68253371/501a8232-2859-4c1a-895a-167de48589de)
 
 
 Al instalar Mint e inicar el PC solo iniciba en windows entonces 
