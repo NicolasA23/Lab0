@@ -8,7 +8,13 @@ Durante el semestre vamos a utilizar linux en La distribucion Mint, durante este
 
 ## Instalacion de linux  
 Para la instalacion de Mint primero se descargo Mint desde su pagina web  
-<center> ![picasion com_0fcb55a8d0821674ecded91912108562](https://github.com/NicolasA23/Lab0/assets/68253371/23ad914d-d6d6-4fc6-913b-f49adcfff09e </center>
+![picasion com_0fcb55a8d0821674ecded91912108562](https://github.com/NicolasA23/Lab0/assets/68253371/23ad914d-d6d6-4fc6-913b-f49adcfff09e).  
+Luego se instalo rufus desde la tienda de windows para posteriormente quemar la iso en una USB 
+![picasion com_401c3aa672577acb339f36516ce4aa50](https://github.com/NicolasA23/Lab0/assets/68253371/1ae6f54f-972a-4a39-9dcc-8ec8bf426472)
+ya con la iso quemada se empezo a realizar la intalacion primero apando el computador, luego iniciando desde la USB se selecciono la opcion "Start linux Mint 21.2 cinnamon 64-bits" y se siguieron los pasos del instalador de Mint  
+
+Posterior a la instacion de Mint se instalaron los paquetes de conda como indico el profesor
+
 
 ![Captura de pantalla de 2023-08-29 16-47-20](https://github.com/NicolasA23/Lab0/assets/68253371/34c8dc2f-115f-4848-b543-d2374fd66513)  
 ![Captura de pantalla de 2023-08-29 16-47-32](https://github.com/NicolasA23/Lab0/assets/68253371/2d9f63df-f543-44ec-9919-567cc9887aea)  
