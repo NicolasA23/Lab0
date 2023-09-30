@@ -22,7 +22,7 @@ Tambien las configuraciones de usuario y seguridad
 ##  Solucionando problemas posteriores a la instalacion
 Al instalar Mint e inicar el PC solo iniciaba en windows entonces 
 
-## Instalando 
+## Instalando Conda y las herramientas para el semestre
 Posterior a la instacion de Mint se instalaron los paquetes de conda como indico el profesor para instalar las diferentes herramientas que se utilizaran durante el semestre 
 
 ![Captura de pantalla de 2023-08-29 16-47-20](https://github.com/NicolasA23/Lab0/assets/68253371/34c8dc2f-115f-4848-b543-d2374fd66513)  
