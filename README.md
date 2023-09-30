@@ -13,6 +13,11 @@ Luego se instalo rufus desde la tienda de windows para posteriormente quemar la 
 ![picasion com_401c3aa672577acb339f36516ce4aa50](https://github.com/NicolasA23/Lab0/assets/68253371/1ae6f54f-972a-4a39-9dcc-8ec8bf426472)  
 ya con la iso quemada se empezo a realizar la intalacion primero apando el computador, luego iniciando desde la USB se selecciono la opcion "Start linux Mint 21.2 cinnamon 64-bits" y se siguieron los pasos del instalador de Mint  
 ![SS12](https://github.com/NicolasA23/Lab0/assets/68253371/323512a4-816d-4b38-a5fa-29b0a2a16884)  
+![picasion com_733c07bfe8f175b24b4d89f71b1c6fb6](https://github.com/NicolasA23/Lab0/assets/68253371/d8ce30c3-2e8b-484e-ba18-0e05e256d9fd)
+
+![picasion com_f53a0fde7f707cd1bc2f3772e5d1821f](https://github.com/NicolasA23/Lab0/assets/68253371/c53c4d3e-997d-4e2e-9751-a8d0b411bb77)  
+
+
 
 Posterior a la instacion de Mint se instalaron los paquetes de conda como indico el profesor para instalar las diferentes herramientas que se utilizaran durante el semestre 
 
