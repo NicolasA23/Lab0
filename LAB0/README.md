@@ -16,7 +16,8 @@ Luego se instalo rufus desde la tienda de windows para posteriormente quemar la 
  
 ya con la iso quemada se empezo a realizar la intalacion primero apando el computador, luego iniciando desde la USB se selecciono la opcion "Start linux Mint 21.2 cinnamon 64-bits"
 
-![SS12 2](https://github.com/NicolasA23/Lab0/assets/68253371/a4b61dcf-b95f-4b8a-b511-4c0a9338bde2)
+![SS12 2](https://github.com/NicolasA23/Lab0/assets/68253371/2fecdd09-da6d-4597-9915-457ac8a7bb63)
+
 
 se siguieron los pasos del instalador de Mint, configurando codecs de audio, zona horaria, la particion donde se queria realizar la instalación
 ![picasion com_01d3464f3668c5aeba7c2adf6868a57f (1)](https://github.com/NicolasA23/Lab0/assets/68253371/eb35a045-c795-4c1c-aea4-8c96f615bfce)
