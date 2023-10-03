@@ -36,6 +36,7 @@ Posterior a la instacion de Mint se instalaron los paquetes de conda como indico
 ![Captura de pantalla de 2023-08-29 16-47-32](https://github.com/NicolasA23/Lab0/assets/68253371/ccecad64-c817-45e3-a0a5-e90ee11acd48)
 ![Captura de pantalla de 2023-08-29 16-47-20](https://github.com/NicolasA23/Lab0/assets/68253371/580e7d54-4e4d-434c-8d3f-b773be88b53d)
 
-![Imagen de WhatsApp 2023-09-30 a las 12 11 57_1370a517](https://github.com/NicolasA23/Lab0/assets/68253371/2b58c3ea-0a28-4722-bd9c-8a82b5cc5a8f)
+![Imagen de WhatsApp 2023-09-30 a las 12 11 56_06341713](https://github.com/NicolasA23/Lab0/assets/68253371/298f5d9b-a335-455b-9e28-a253c81c405a)
+
 
  
