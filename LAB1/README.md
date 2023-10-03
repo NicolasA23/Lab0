@@ -1,5 +1,5 @@
-#creacion y prueba del fulladder  
-##creacion  
+# creacion y prueba del fulladder  
+## creacion  
 
 Para realizar el sumador se utilizaron 2 medios sumadores  
 ![Captura de pantalla 2023-10-01 222933](https://github.com/NicolasA23/Lab0/assets/68253371/395c1344-70a6-4735-a429-117a5e3a4da5)
