@@ -4,7 +4,7 @@
 Para realizar el smador se utilizaron 2 medios sumadores  
 ![image](https://github.com/NicolasA23/Lab0/assets/68253371/89640f9c-c4cf-499b-9d67-bd6471629a4c)
 ![image](https://github.com/NicolasA23/Lab0/assets/68253371/89640f9c-c4cf-499b-9d67-bd6471629a4c)
-![$value 2](https://github.com/NicolasA23/Lab0/assets/68253371/fde437f3-3d4b-4266-a70e-3128191c2693)
+
 
 ##prueba  
 Para empezar a porbar el programa primero se creo el archivo iverilog a partir del.v y se verifico su creacion con el comando ls
