@@ -57,7 +57,7 @@ wsl --install
 ```
 Este habilitará las características necesarias para ejecutar WSL e instalará la distribución Ubuntu de Linux.
 Despues de realizar la instalacion se nos peridra un usuario y una contraseña, luego de colococar estas podremos trabajar de la misma manera en la que trabajariamos con nuestra maquina virtual o nuestra instalacion en paralelo (Utilizando windows de esta manera solo podremos trabajar y abiri los directorios o aplicaciones desde la consola).
-Para abrir este subsistema solo tendremos que ir a inicio y darle al icono de ubuntu, ahi se abrira la consola de ubuntu y podremos trabajar 
+Para abrir este subsistema solo tendremos que ir a inicio y darle al icono de ubuntu, ahi se abrira la consola de ubuntu y podremos trabajar.  
 ![image](https://github.com/NicolasA23/Lab0/assets/68253371/925033fe-baf0-4ee1-ba3a-aa4f89cedad1)
 
 
