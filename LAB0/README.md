@@ -64,12 +64,30 @@ Para abrir este subsistema solo tendremos que ir a inicio y darle al icono de ub
 
 ## Instalando Conda y las herramientas para el semestre
 Posterior a la instacion de Mint se instalaron los paquetes de conda como indico el profesor para instalar las diferentes herramientas que se utilizaran durante el semestre 
-
+la primer aplicaion que instalamos fue geany con el comando 
+```
+sudo apt install geany
+```
 ![Captura de pantalla de 2023-08-29 17-39-47](https://github.com/NicolasA23/Lab0/assets/68253371/c61d099e-a934-4a12-8bda-b24c61cc508e)
-![Captura de pantalla de 2023-08-29 16-47-32](https://github.com/NicolasA23/Lab0/assets/68253371/ccecad64-c817-45e3-a0a5-e90ee11acd48)
-![Captura de pantalla de 2023-08-29 16-47-20](https://github.com/NicolasA23/Lab0/assets/68253371/580e7d54-4e4d-434c-8d3f-b773be88b53d)
-
-![Imagen de WhatsApp 2023-09-30 a las 12 11 56_06341713](https://github.com/NicolasA23/Lab0/assets/68253371/298f5d9b-a335-455b-9e28-a253c81c405a)
+Para esto nos pedira nuestra contraseña, al ingresarla se instalara automaticamente y quedara listo para su uso. Luego instalamos digital y creamos el entrono de digital para trabajar en este, esto por medio de los comando que nos indico el profesor, en esta tambien se activa la variable de entorno digital
+```
+(base) $ conda update conda # Actualizar conda
+(base) $ conda create -n digital python=3.7 # Configurar digital como variable de entorno y python3.10
+(base) $ conda activate digital  # Activar la variable de entorno de conda denominada digital
+(digital) $ python --version # Debe presentarse la version 3.7 para poder continuar
+```
+con digital activado instalamos otras herramientas tambien usando los siguientes comandos
+```
+(digital) $ conda install -c litex-hub nextpnr-ice40
+(digital) $ conda install -c litex-hub nextpnr-ecp5
+(digital) $ conda install -c litex-hub iceprog
+(digital) $ conda install -c litex-hub yosys
+(digital) $ conda install -c litex-hub iverilog
+(digital) $ conda install -c symbiflow netlistsvg
+(digital) $ conda install -c conda-forge graphviz
+(digital) $ conda install -c conda-forge gtkwave 
+```
+De esta manera terminamos de preparar el entorno para poder trabajar durante el semestre.
 
 
  
