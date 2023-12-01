@@ -309,6 +309,11 @@ Y este es el controlador que depende de los sensores.
 **Diagrama RTL:**
 ![imagen](https://github.com/NicolasA23/Lab0/assets/47162775/0901844b-2902-4c21-a66d-c81d26c1b5c2)
 
+**Simulación:**
+
+![imagen](https://github.com/NicolasA23/Lab0/assets/47162775/7ef61e23-9213-4de3-ab21-8b4f8c346eda)
+
+
 
 ## Presupuesto
 A continuación se puede evidenciar los elementos usados para la realización de nuestro proyecto y su debido precio. Si comparamos el salario de un operador que se encargue de realizar actividades de servicio al cliente en sitios como camiones de comida, ambulantes o similares; se puede observar que el costo es menor y aunque teniedo en cuenta que llevarlo a gran escala el margen de costos aumentaria, su precio neto en alrededor de un año sería superior a la inversión a realizar. 
