@@ -42,10 +42,10 @@ Por ejemplo, en el caso de la iluminación, se tienen sensores para determinar c
 El reto es ver cómo la domótica, mecatrónica, telemática o robótica se pueden adaptar a los desarrollos empresariales, pero a un bajo costo y pensando, sobre todo, en un desarrollo sustentable. 
 
 ## Objetivo
-- **Objetivo General**\n
+- **Objetivo General**
 
 Diseñar un puesto de comida inteligente desde su maqueta hasta la implementación de sistemas con la finalidad de administrar recursos y satisfacer las necesidades presentes y futuras de los propietarios alcanzando una flexibilidad, tanto en la estructura como en los sistemas y servicios. 
   
-- **Objetivos Especificos**\n
+- **Objetivos Especificos**
 
 Diseñar sistemas para un control de Toldo y control de iluminación para un puesto de comida. Alcanzano un grado suficiente de estandarización e implantación, que permita uns reducción considerable de costos. 
