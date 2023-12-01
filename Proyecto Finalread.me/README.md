@@ -113,10 +113,12 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/b3a84bbd-77e8-43ba-8993-e3f31de095d2)
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/a0b7bcd6-0ea8-4d76-bd7c-39397e9ebbe4)
 
-    - **Circuito:** Una vez realizado lo anterior, se puede obtener el circuito que corresponde a nuestro sistema. 
+   - **Circuito:** Luego de realizar los pasos anteriormente mencionados, se procede a simular el respectivo circuito el cual se muestra a continuación.
+ 
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/8f9f3b6f-e34b-47ed-921c-ee874e68504f)
 
-
+- **Implementación de código Arduino**
+Para verficar el desarrollo de código para los procesos anteriormente mencionados dirigirse a la subcarpeta Proyecto_Digital en la carpeta Proyecto Finalread.me del repositorio.
 
 ## Presupuesto
 A continuación se puede evidenciar los elementos usados para la realización de nuestro proyecto y su debido precio. Si comparamos el salario de un operador que se encargue de realizar actividades de servicio al cliente en sitios como camiones de comida, ambulantes o similares; se puede observar que el costo es menor y aunque teniedo en cuenta que llevarlo a gran escala el margen de costos aumentaria, su precio neto en alrededor de un año sería superior a la inversión a realizar. 
