@@ -41,7 +41,7 @@ Por ejemplo, en el caso de la iluminación, se tienen sensores para determinar c
 
 El reto es ver cómo la domótica, mecatrónica, telemática o robótica se pueden adaptar a los desarrollos empresariales, pero a un bajo costo y pensando, sobre todo, en un desarrollo sustentable. 
 
-## Objetivo
+## Objetivos
 - **Objetivo General**
 
 Diseñar un puesto de comida inteligente desde su maqueta hasta la implementación de sistemas con la finalidad de administrar recursos y satisfacer las necesidades presentes y futuras de los propietarios alcanzando una flexibilidad, tanto en la estructura como en los sistemas y servicios. 
@@ -49,3 +49,37 @@ Diseñar un puesto de comida inteligente desde su maqueta hasta la implementaci�
 - **Objetivos Especificos**
 
 Diseñar sistemas para un control de Toldo y control de iluminación para un puesto de comida. Alcanzano un grado suficiente de estandarización e implantación, que permita uns reducción considerable de costos. 
+
+## Descripción de la solución planteada
+
+Se desea realizar un ciruito de control para el toldo e iluminación en una tienda de comida ambulante. El toldo tiene la función tanto de dar sombra como proteger del viento y de lluvia a los  clientes que se acerquen a realizar la compra, esperar o comer en compañia de más personas. 
+
+Para el circuito de control tenemos las siguientes entradas:
+
+Señal **S**: Indica si hay sol, Señal **L**: Indica si llueve, Señal **v** Indica si hay mucho viento, Señal **F**: Indica si hace frío en el interior de la casa.
+
+Según los valores de estas entradas se bajará o subirá el toldo. Esto se realizará mediante la señal de salida BT (Bajar el toldo), así como también se encenderá o se apará el bombillo mediante la salida PB (Prender bombilla).
+
+**El circuito que acciona el toldo que debe funcionar según las siguientes características:**
+
+Independienteme del resto de señales de entrada, siempre que llueva se debe extender el toldo para evitar que se moje la gente. No se considerará posible que simultáneamente llueva y haga sol. Además, siempre que sea de día la luz no estará encendida, esto dependerá de la señal que envié el sensor al arduino. 
+
+Si hace viento se debe extender el toldo para evitar que el viento moleste, sin embargo, hay una excepción: aún cuando haya viento, si el día está soleado y hace frío en la calle, se recogerá el toldo para el que el sol llegué a la gente.
+
+Por último, si no hace viento ni llueve, sólo se bajará el toldo en los días de sol y cuando haga calor en el interior, para evitar que caliente mucho. 
+
+A continuación se pueden observar los paso a paso para llegar a nuestro sistema: 
+
+- **Diseño de maqueta:**
+  Se usó balso y diferentes materiales que nos ayudaran a simular las tiendas de comida comunmente vistas en la ciudad de bogotá. A continuación, se pueden observar las diferntes imágenes que muestran el diseño. 
+
+## Presupuesto
+
+## Resultados
+## Conclusiones
+## Autores
+- Yuli Fernanda Alpala Cuaspa
+- Nicolás Andrés Niño Sabogal
+- Nicolás Torres Orozco
+
+
