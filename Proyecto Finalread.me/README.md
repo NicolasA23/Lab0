@@ -22,6 +22,10 @@ La mayoria de las necesidades de las personas, dentro de una casa o sitio de emp
 
 Por lo anterior, se analizó especificamente a los camiones de comida que están presentes en muchos sitios de la ciudad de Bogotá, en la mayoría de los casos solo hay una persona que atiende a sus clientes, mientras ellos preparan el pedido, mucha gente esta a la espera y con ello a la espera de servicios de atención como una carpa por si llueve, encender la luz por si el sitio es oscuro o recibir el sol sin que haya sombra, por ello más adelante se muestra la propuesta de un puesto de comida automatizado que facilita a el trabajador brindar buenos servicios de atención permitiendo menor esfuerzo y con ello menor estres en el sitio de trabajo. 
 
+## Análsis PESTAL
+
+
+
 ## **Antecedentes**
 Básicamente los proyectos realizados en esta área están desarrollados en el exterior, teniendo una tendencia a los relacionados con seguridad y luego los de comodidad o confort.
 
@@ -74,9 +78,20 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
   Se usó balso y diferentes materiales que nos ayudaran a simular las tiendas de comida comunmente vistas en la ciudad de bogotá. A continuación, se pueden observar las diferntes imágenes que muestran el diseño. 
 
 ## Presupuesto
+A continuación se puede evidenciar los elementos usados para la realización de nuestro proyecto y su debido precio. Si comparamos el salario de un operador que se encargue de realizar actividades de servicio al cliente en sitios como camiones de comida, ambulantes o similares; se puede observar que el costo es menor y aunque teniedo en cuenta que llevarlo a gran escala el margen de costos aumentaria, su precio neto en alrededor de un año sería superior a la inversión a realizar. 
+
+![image](https://github.com/NicolasA23/Lab0/assets/49196938/a9a59dcb-e186-42fc-9fdc-7aaec9c56284)
+
 
 ## Resultados
+A continuación podemos observar el link del video que evidencia el respectivo funcionamiento de la solución planteada:
+
+
 ## Conclusiones
+
+Cada vez cobra más fuerza entre ingenieros y los propios inversionistas, el concebir y diseñar viviendas o sitios de trabajo que utilicen menos energía, que tengan menores gastos de operación, que sean más seguros, que ofrezcan un mejor ambiente interno entre sus ocupantes y que brinden ganancias considerables sobre su inversión. Por está razón, la demanda para la construcción de sistemas inteligentes que controlen iluminación, toldas, etc., con ahorros energéticos se está incrementando rápidamente. 
+
+
 ## Autores
 - Yuli Fernanda Alpala Cuaspa
 - Nicolás Andrés Niño Sabogal
