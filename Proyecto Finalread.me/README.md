@@ -25,33 +25,32 @@ Por lo anterior, se analizó especificamente a los camiones de comida que están
 ## Análsis PESTAL
 
 - **Político:**
-Se deben considerar las regulaciones gubernamentales relacionadas con la automatización en hogares y negocios. Puede haber incentivos o restricciones específicas que afecten la adopción de tecnologías automatizadas.
+  Se deben considerar las regulaciones gubernamentales relacionadas con la automatización en hogares y negocios. Puede haber incentivos o restricciones específicas que afecten la adopción de tecnologías automatizadas.
 
-Así pues, según lo establecido en el artículo 2 de la Constitución Política de Colombia. Busca servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución.
+  Así pues, según lo establecido en el artículo 2 de la Constitución Política de Colombia. Busca servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución.
 
-En el DECRETO 88 DE 2022, Hace referencia a la Ley 962 de 2005, la cual consagra como uno de sus principios rectores el fortalecimiento tecnológico. En este contexto, se destaca el papel del Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) para incentivar el uso de medios tecnológicos integrados que agilicen y eficienticen los trámites administrativos.
+  En el DECRETO 88 DE 2022, Hace referencia a la Ley 962 de 2005, la cual consagra como uno de sus principios rectores el fortalecimiento tecnológico. En este contexto, se destaca el papel del Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) para incentivar el uso de medios tecnológicos integrados que agilicen y eficienticen los trámites administrativos.
 
-El decreto se inscribe en el marco legal de la Ley 962 de 2005 y el Decreto Ley 19 de 2012, que buscan la racionalización de trámites y procedimientos administrativos. La legislación prioriza la simplificación, estandarización, eliminación, optimización y automatización de procesos, fomentando la participación ciudadana y la transparencia.
+  El decreto se inscribe en el marco legal de la Ley 962 de 2005 y el Decreto Ley 19 de 2012, que buscan la racionalización de trámites y procedimientos administrativos. La legislación prioriza la simplificación, estandarización, eliminación, optimización y automatización de procesos, fomentando la participación ciudadana y la transparencia.
 
 
 - **Económico:**
-Se evidencia posteriormente que el costo de implementación del proyecto es de $709,500 c/u. Proyectando a 5 años de ventas y teniedo en cuenta que hay aproximadamente 39,620 vendedores de comida en Bogotá, de los cuales 5,000 son formales y suponiendo que se realizan ventas de 10 taldas automatizadas con iluminación cada mes, se venderán 600 toldas en 5 años. Esto representa una inversión de $23,772.000 en este periodo, por lo que si el precio de venta a los clientes es de $1'000.000 a los 5 años se tiene un flujo neto de $576,228,000 sin tener en cuenta operarios y transporte. A largo plazo, si se presentará incremento de ventas cada mes, podremos obtener ganancias que compensan otros gastos, resultando en un aumento proyectado de las ganancias en el futuro. Por lo tanto, este proyecto parece ser viable para su implementación en diversas áreas de Bogotá. 
+  Se evidencia posteriormente que el costo de implementación del proyecto es de $709,500 c/u. Proyectando a 5 años de ventas y teniedo en cuenta que hay aproximadamente 39,620 vendedores de comida en Bogotá, de los cuales 5,000 son formales y suponiendo que se realizan ventas de 10 taldas automatizadas con iluminación cada mes, se venderán 600 toldas en 5 años. Esto representa una inversión de $23,772.000 en este periodo, por lo que si el precio de venta a los clientes es de $1'000.000 a los 5 años se tiene un flujo neto de $576,228,000 sin tener en cuenta operarios y transporte. A largo plazo, si se presentará incremento de ventas cada mes, podremos obtener ganancias que compensan otros gastos, resultando en un aumento proyectado de las ganancias en el futuro. Por lo tanto, este proyecto parece ser viable para su implementación en diversas áreas de Bogotá. 
   
 - **Social:**
-El cambio en el estilo de vida y las preferencias de las personas hacia la comodidad y la eficiencia podría ser un impulsor clave para la adopción de sistemas automatizados en el hogar y en negocios como los camiones de comida.
-
-La búsqueda de mayor seguridad y confort en el hogar y en el lugar de trabajo puede ser una motivación importante para adoptar sistemas automatizados.
+  El cambio en el estilo de vida y las preferencias de las personas hacia la comodidad y la eficiencia podría ser un impulsor clave para la adopción de sistemas automatizados en el hogar y en negocios como los camiones de comida.
+  La búsqueda de mayor seguridad y confort en el hogar y en el lugar de trabajo puede ser una motivación importante para adoptar sistemas automatizados.
 
 - **Tecnológico:**
-La disponibilidad de tecnologías avanzadas, como sensores inteligentes, sistemas de automatización del hogar y herramientas específicas para la propuesta de puestos de comida automatizados puede tener un impacto significativo.
+  La disponibilidad de tecnologías avanzadas, como sensores inteligentes, sistemas de automatización del hogar y herramientas específicas para la propuesta de puestos de comida automatizados puede tener un impacto significativo.
   
 - **Ambiental:**
-La utomatización de camiones de comida, ambulantes o parecidos puede contribuir a la eficiencia energética en el hogar y en negocios, lo que podría estar alineado con iniciativas ambientales y sostenibles.
+  La utomatización de camiones de comida, ambulantes o parecidos puede contribuir a la eficiencia energética en el hogar y en negocios, lo que podría estar alineado con iniciativas ambientales y sostenibles.
   
 - **Legal:**
-- Marco Legal: En el DECRETO 88 DE 2022 se sustenta en la Constitución Política, la Ley 962 de 2005, el Decreto Ley 19 de 2012, la Ley 1341 de 2009, la Ley 1955 de 2019, el Decreto Ley 2106 de 2019, la Ley 2052 de 2020, y otras leyes relacionadas con la racionalización de trámites y la transformación digital.
-- Obligaciones Legales: Establece obligaciones para entidades estatales y particulares en relación con la automatización y digitalización de trámites, siguiendo lineamientos definidos por el Ministerio de Tecnologías de la Información y las Comunicaciones.
-- Interoperabilidad: Destaca la importancia de la interoperabilidad y la masificación del gobierno en línea, así como la obligación de las entidades estatales de incorporar el componente de transformación digital en sus planes de acción.
+   - Marco Legal: En el DECRETO 88 DE 2022 se sustenta en la Constitución Política, la Ley 962 de 2005, el Decreto Ley 19 de 2012, la Ley 1341 de 2009, la Ley 1955 de 2019, el Decreto Ley 2106 de 2019, la Ley 2052 de 2020, y otras leyes relacionadas con la racionalización de trámites y la transformación digital.
+   - Obligaciones Legales: Establece obligaciones para entidades estatales y particulares en relación con la automatización y digitalización de trámites, siguiendo lineamientos definidos por el Ministerio de Tecnologías de la Información y las Comunicaciones.
+   - Interoperabilidad: Destaca la importancia de la interoperabilidad y la masificación del gobierno en línea, así como la obligación de las entidades estatales de incorporar el componente de transformación digital en sus planes de acción.
 
 ## **Antecedentes**
 Básicamente los proyectos realizados en esta área están desarrollados en el exterior, teniendo una tendencia a los relacionados con seguridad y luego los de comodidad o confort.
