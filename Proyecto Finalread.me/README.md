@@ -113,8 +113,8 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/a0b7bcd6-0ea8-4d76-bd7c-39397e9ebbe4)
 
     - Circuito: Una vez realizado lo anterior, se puede obtener el circuito que corresponde a nuestro sistema. 
-    ![Uploading image.png…]()
-![Uploading image.png…]()
+    ![image](https://github.com/NicolasA23/Lab0/assets/49196938/55bef34a-0763-4e67-87cf-7238fcf13404)
+
 
 ## Presupuesto
 A continuación se puede evidenciar los elementos usados para la realización de nuestro proyecto y su debido precio. Si comparamos el salario de un operador que se encargue de realizar actividades de servicio al cliente en sitios como camiones de comida, ambulantes o similares; se puede observar que el costo es menor y aunque teniedo en cuenta que llevarlo a gran escala el margen de costos aumentaria, su precio neto en alrededor de un año sería superior a la inversión a realizar. 
