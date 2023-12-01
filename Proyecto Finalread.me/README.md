@@ -101,7 +101,10 @@ Por último, si no hace viento ni llueve, sólo se bajará el toldo en los días
 A continuación se pueden observar los paso a paso para llegar a nuestro sistema: 
 
 - **Diseño de maqueta:**
-  Se usó balso y diferentes materiales que nos ayudaran a simular las tiendas de comida comunmente vistas en la ciudad de bogotá. A continuación, se pueden observar las diferntes imágenes que muestran el diseño. 
+  Se usó balso y diferentes materiales que nos ayudaran a simular las tiendas de comida comunmente vistas en la ciudad de bogotá. A continuación, se pueden observar las diferntes imágenes que muestran el diseño.
+
+![image](https://github.com/NicolasA23/Lab0/assets/49196938/3dfb9682-7206-4c4b-b42f-8af3cc39583a)
+
 
 - **Cálculos requeridos para la solución**
    - **Tabla de verdad:** Teniedno en cuanta las entradas y salidas mencionadas anteriormente se procede a realizar la tabla de verdad para el análisis.
