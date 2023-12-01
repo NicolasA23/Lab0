@@ -90,7 +90,7 @@ Señal **S**: Indica si hay sol, Señal **L**: Indica si llueve, Señal **v** In
 
 Según los valores de estas entradas se bajará o subirá el toldo. Esto se realizará mediante la señal de salida BT (Bajar el toldo), así como también se encenderá o se apará el bombillo mediante la salida PB (Prender bombilla).
 
-**El circuito que acciona el toldo que debe funcionar según las siguientes características:**
+**El circuito que acciona el toldo y bombilla de iluminación debe funcionar según las siguientes características:**
 
 Independienteme del resto de señales de entrada, siempre que llueva se debe extender el toldo para evitar que se moje la gente. No se considerará posible que simultáneamente llueva y haga sol. Además, siempre que sea de día la luz no estará encendida, esto dependerá de la señal que envié el sensor al arduino. 
 
@@ -102,6 +102,19 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
 
 - **Diseño de maqueta:**
   Se usó balso y diferentes materiales que nos ayudaran a simular las tiendas de comida comunmente vistas en la ciudad de bogotá. A continuación, se pueden observar las diferntes imágenes que muestran el diseño. 
+
+- **Cálculos requeridos para la solución**
+   - Tabla de verdad: Teniedno en cuanta las entradas y salidas mencionadas anteriormente se procede a realizar la tabla de verdad para el análisis.
+     ![image](https://github.com/NicolasA23/Lab0/assets/49196938/084a3c08-f8d3-4217-9165-d04617b4fa4e)
+
+   - Mapas de Karaugh: Se realizan los mapas de karnaugh para las respectivas salidas y así obtener la ecuación que representa el circuito
+  
+![image](https://github.com/NicolasA23/Lab0/assets/49196938/b3a84bbd-77e8-43ba-8993-e3f31de095d2)
+![image](https://github.com/NicolasA23/Lab0/assets/49196938/a0b7bcd6-0ea8-4d76-bd7c-39397e9ebbe4)
+
+    - Circuito: Una vez realizado lo anterior, se puede obtener el circuito que corresponde a nuestro sistema. 
+    ![Uploading image.png…]()
+![Uploading image.png…]()
 
 ## Presupuesto
 A continuación se puede evidenciar los elementos usados para la realización de nuestro proyecto y su debido precio. Si comparamos el salario de un operador que se encargue de realizar actividades de servicio al cliente en sitios como camiones de comida, ambulantes o similares; se puede observar que el costo es menor y aunque teniedo en cuenta que llevarlo a gran escala el margen de costos aumentaria, su precio neto en alrededor de un año sería superior a la inversión a realizar. 
