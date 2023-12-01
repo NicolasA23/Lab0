@@ -120,6 +120,189 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
 - **Implementación de código Arduino:**
 Para verficar el desarrollo de código para los procesos anteriormente mencionados dirigirse a la subcarpeta Proyecto_Digital en la carpeta Proyecto Finalread.me del repositorio.
 
+- **Implementación del código en Verilog para la FPGA:**
+Para verificar el código de Verilog que controla el comportamiento del toldo dirigirse a los archivos adjuntos. pero se explicarán brevemente a continuación:
+
+```ruby
+module bajar_toldo (
+	input clk,
+	input V,
+	input S,
+	input F,
+	input L,
+	output BT,
+	output luz
+);
+
+wire [19:0] cable_limite;
+wire [19:0] cable_contador;
+wire bajar;
+
+assign luz = S;
+
+
+controlador micontrolador(
+
+	.V(V),
+	.S(S),
+	.F(F),
+	.L(L),
+	.BT(bajar)
+
+
+);
+
+/*
+luz miluz(
+	.S(S),
+	.luz(luz)
+
+);
+
+*/
+
+switch miSwitch(
+
+	.clk(clk),
+	.switch(bajar),
+	.lim(cable_limite)
+
+);
+
+contador miContador(
+
+	.clk(clk),
+	.count(cable_contador)
+
+);
+
+
+comparador miComparador(
+
+	.clk(clk),
+	.count(cable_contador),
+	.lim(cable_limite),
+	.sign(BT)
+
+);
+
+
+
+endmodule
+
+```
+Este es el archivo Top donde se interconectan todos los componentes
+
+```ruby
+module switch(
+	input clk,
+	input switch,
+	output reg [19:0] lim
+	
+);
+
+
+always@(posedge clk)
+
+begin
+	if(switch == 1)
+		begin
+			lim <= 20'd25000;
+		end
+	if(switch == 0)
+		begin
+			lim <= 20'd70000;
+		end
+end
+			 
+
+endmodule
+```
+Este es el código en donde se escogen los límites segun la entrada
+
+```ruby
+module contador (
+	input clk,
+	output reg [19:0] count = 0
+);
+
+/*
+	25E6/(50Hz) = 500 000;
+	2^19 = 524 288;
+	
+	50E6/(50Hz) =	1 000 000;
+	2^20 = 1 048 576;
+
+parameter SIZE = 19;
+parameter LIMIT = 19'd500000;
+*/
+
+parameter SIZE = 20;
+parameter LIMIT = 20'd1000000;
+
+always@(posedge clk)
+begin
+	if(count == LIMIT)
+		begin
+			count <= 0;
+		end
+	else
+		begin
+			count <= count + 1;
+		end
+end
+
+endmodule		
+
+```
+
+Este es el contador que define el límite de pulsos para la señal
+
+```ruby
+module comparador(
+	input clk,
+	input wire [19:0] count,
+	input wire [19:0] lim,
+	output reg sign
+	
+);
+
+always@(posedge clk)
+begin
+	if(count < lim)
+		begin
+			sign <= 1;
+		end
+	else
+		begin
+			sign <= 0;
+		end
+end 
+
+endmodule
+```
+Este es el comparador que tiene como salida la señal final PWM
+
+```ruby
+module controlador(
+	//input switch,
+	input V,
+	input S,
+	input F,
+	input L,
+	output BT
+	
+);
+
+
+assign BT = ~((~F & S) | L | (~S & V));		 
+
+endmodule
+
+```
+
+Y este es el controlador que depende de los sensores. 
+
 ## Presupuesto
 A continuación se puede evidenciar los elementos usados para la realización de nuestro proyecto y su debido precio. Si comparamos el salario de un operador que se encargue de realizar actividades de servicio al cliente en sitios como camiones de comida, ambulantes o similares; se puede observar que el costo es menor y aunque teniedo en cuenta que llevarlo a gran escala el margen de costos aumentaria, su precio neto en alrededor de un año sería superior a la inversión a realizar. 
 
