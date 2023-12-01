@@ -113,11 +113,11 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/b3a84bbd-77e8-43ba-8993-e3f31de095d2)
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/a0b7bcd6-0ea8-4d76-bd7c-39397e9ebbe4)
 
-   - **Circuito:** Luego de realizar los pasos anteriormente mencionados, se procede a simular el respectivo circuito el cual se muestra a continuación.
+   - **Circuito:** Luego de realizar los pasos anteriormente mencionados, se procede a simular el respectivo circuito que se implementa para el desarrollo de este proyecto, este se muestra a continuación: 
  
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/8f9f3b6f-e34b-47ed-921c-ee874e68504f)
 
-- **Implementación de código Arduino**
+- **Implementación de código Arduino:**
 Para verficar el desarrollo de código para los procesos anteriormente mencionados dirigirse a la subcarpeta Proyecto_Digital en la carpeta Proyecto Finalread.me del repositorio.
 
 ## Presupuesto
