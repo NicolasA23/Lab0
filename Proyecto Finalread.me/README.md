@@ -104,16 +104,17 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
   Se usó balso y diferentes materiales que nos ayudaran a simular las tiendas de comida comunmente vistas en la ciudad de bogotá. A continuación, se pueden observar las diferntes imágenes que muestran el diseño. 
 
 - **Cálculos requeridos para la solución**
-   - Tabla de verdad: Teniedno en cuanta las entradas y salidas mencionadas anteriormente se procede a realizar la tabla de verdad para el análisis.
-     ![image](https://github.com/NicolasA23/Lab0/assets/49196938/084a3c08-f8d3-4217-9165-d04617b4fa4e)
+   - **Tabla de verdad:** Teniedno en cuanta las entradas y salidas mencionadas anteriormente se procede a realizar la tabla de verdad para el análisis.
+![image](https://github.com/NicolasA23/Lab0/assets/49196938/084a3c08-f8d3-4217-9165-d04617b4fa4e)
 
-   - Mapas de Karaugh: Se realizan los mapas de karnaugh para las respectivas salidas y así obtener la ecuación que representa el circuito
+   - **Mapas de Karaugh:** Se realizan los mapas de karnaugh para las respectivas salidas y así obtener la ecuación que representa el circuito
   
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/b3a84bbd-77e8-43ba-8993-e3f31de095d2)
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/a0b7bcd6-0ea8-4d76-bd7c-39397e9ebbe4)
 
-    - Circuito: Una vez realizado lo anterior, se puede obtener el circuito que corresponde a nuestro sistema. 
-    ![image](https://github.com/NicolasA23/Lab0/assets/49196938/55bef34a-0763-4e67-87cf-7238fcf13404)
+    - **Circuito:** Una vez realizado lo anterior, se puede obtener el circuito que corresponde a nuestro sistema. 
+![image](https://github.com/NicolasA23/Lab0/assets/49196938/8f9f3b6f-e34b-47ed-921c-ee874e68504f)
+
 
 
 ## Presupuesto
