@@ -1,0 +1,11 @@
+module luz(
+	input S,
+	output luz
+	
+);
+
+
+assign luz = ~S
+			 
+
+endmodule

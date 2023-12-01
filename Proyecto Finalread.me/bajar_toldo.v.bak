@@ -1,0 +1,9 @@
+module bajar_toldo (
+  input V,
+  input S,
+  input F,
+  input L,
+  output BT
+);
+  assign BT = ((V & ~ S) | (S & ~ F) | L);
+endmodule

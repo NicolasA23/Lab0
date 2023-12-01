@@ -1,0 +1,18 @@
+module controlador(
+	input switch,
+	input V,
+	input S,
+	input F,
+	input L,
+	output reg BT
+	
+);
+
+
+BT = ((V & ~ S) | (S & ~ F) | L | switch);
+
+
+	
+			 
+
+endmodule
