@@ -105,6 +105,7 @@ A continuación se pueden observar los paso a paso para llegar a nuestro sistema
 
 - **Cálculos requeridos para la solución**
    - **Tabla de verdad:** Teniedno en cuanta las entradas y salidas mencionadas anteriormente se procede a realizar la tabla de verdad para el análisis.
+ 
 ![image](https://github.com/NicolasA23/Lab0/assets/49196938/084a3c08-f8d3-4217-9165-d04617b4fa4e)
 
    - **Mapas de Karaugh:** Se realizan los mapas de karnaugh para las respectivas salidas y así obtener la ecuación que representa el circuito
