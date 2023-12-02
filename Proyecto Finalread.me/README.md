@@ -324,7 +324,7 @@ A continuación se puede evidenciar los elementos usados para la realización de
 ## Resultados
 A continuación podemos observar el link del video que evidencia el respectivo funcionamiento de la solución planteada:
 
-https://drive.google.com/drive/folders/1GVEobSQTzQDdppPmPWlnBtD8mMFFrncD?usp=drive_link
+https://youtu.be/R5E5nDY9kYw
 
 ## Conclusiones
 
